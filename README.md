@@ -1,3 +1,9 @@
+This project is an expense manager in which user can have record of their day to day expenses. Also, User can add description of that particular expense. It is a React js project in which I have used "styled-components" to design the whole project. 
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

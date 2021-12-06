@@ -1,5 +1,13 @@
 This project is an expense manager in which user can have record of their day to day expenses. Also, User can add description of that particular expense. It is a React js project in which I have used "styled-components" to design the whole project. 
 
+![expense1](https://user-images.githubusercontent.com/61836428/144836184-38366813-1af4-4107-a141-c5a2eb37b9c2.png)
+
+
+
+
+![expense2](https://user-images.githubusercontent.com/61836428/144836201-96589f80-5636-4d62-b097-cd9e94028b1e.png)
+
+
 
 
 
